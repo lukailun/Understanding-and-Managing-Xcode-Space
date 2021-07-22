@@ -1,1 +1,1 @@
-# Clean-Xcode-Script
+# Clean Xcode Script
