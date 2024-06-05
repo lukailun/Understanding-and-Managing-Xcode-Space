@@ -1,5 +1,5 @@
-# Clean Xcode Script
+# Understanding and Managing Xcode Space
 
-```
-$ sh clean-xcode.sh
-```
+| Platform | Language | Editor |
+| --- | --- | --- |
+| iOS 14 | Swift 5 | Xcode 12 |
